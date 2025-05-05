@@ -1,0 +1,6 @@
+cd path-to-your-unzipped-project
+git init
+git remote add origin https://github.com/yourusername/ai-event-detection-demo.git
+git add .
+git commit -m "Initial commit"
+git push -u origin master
